@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514949532949",
+    "project_id": "stf-puzzle-simplified",
+    "storage_bucket": "stf-puzzle-simplified.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514949532949:android:1707f2e0b4403599d62d1c",
+        "android_client_info": {
+          "package_name": "com.example.stfgames"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfwCiMPD5KVxc4MZiPQ1vyPMHx8ufxjWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
