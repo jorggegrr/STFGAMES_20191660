@@ -30,8 +30,8 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View view) {
                 // Reemplaza MemoryGameActivity.class con la actividad correcta que tengas para el juego de memoria.
-               // Intent intent = new Intent(MainActivity.this, MemoryGameActivity.class);
-                //startActivity(intent);
+                Intent intent = new Intent(MainActivity.this, MemoryGameActivity.class);
+                startActivity(intent);
             }
         });
     }

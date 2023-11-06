@@ -13,6 +13,9 @@
         android:theme="@style/Theme.STFGAMES"
         tools:targetApi="31">
         <activity
+            android:name=".MemoryGameActivity"
+            android:exported="false" />
+        <activity
             android:name=".PuzzleActivity"
             android:exported="false" />
         <activity
